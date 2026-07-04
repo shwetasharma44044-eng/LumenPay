@@ -62,13 +62,17 @@ A complete, production-ready Stellar Testnet decentralized application (dApp) fo
 
 ## 📸 Screenshots
 
-[SCREENSHOT: wallet connected state]
+**Wallet Connected State**
+![Wallet Connected](./image.png)
 *Description: Shows the UI after the Freighter wallet is successfully connected.*
 
-[SCREENSHOT: balance displayed]
+**Balance Displayed**
+![Balance](./image-1.png)
 *Description: Shows the live XLM balance fetched from the Testnet Horizon server.*
 
-[SCREENSHOT: successful testnet transaction with tx hash shown]
+**Successful Testnet Transaction**
+![Transaction Part 1](./image-2.png)
+![Transaction Part 2](./image-3.png)
 *Description: Shows the success state with the transaction hash and a link to Stellar Expert.*
 
 ## 📄 License
